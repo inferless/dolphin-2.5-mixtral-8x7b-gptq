@@ -1,6 +1,6 @@
 version: 1.0.0
 
-name: dolphin-2.5-mixtral-8x7b-gptq
+name: dolphin-2-5-mixtral-8x7b-gptq
 import_source: GIT
 
 # you can choose the options between ONNX, TENSORFLOW, PYTORCH
